@@ -1,0 +1,14 @@
+:root {
+    --primary-color: #36459b;
+    --sub-color: #636366;
+    --subMenu-color: #858588;
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
