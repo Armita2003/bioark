@@ -5,8 +5,6 @@ import useResponsive from "../../hooks/useResponsive";
 import BadgedAvatar from "./BadgedAvatar";
 
 const Header = ({ toggleMenu }) => {
-    // const isExtraSmallScreen = useResponsive("down", "md");
-
     const isExtraSmallScreen = useResponsive("down", "sm");
     const isSmallScreen = useResponsive("down", "md");
 

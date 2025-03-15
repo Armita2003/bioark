@@ -57,7 +57,6 @@ export const MedicationListIconBox = styled(Box)(({}) => ({
     py: 1,
     px: 1,
     minHeight: "60px",
-    // width: "100%",
     mb: 1,
     border: "1px solid #E6ECF6",
     textAlign: "end",
